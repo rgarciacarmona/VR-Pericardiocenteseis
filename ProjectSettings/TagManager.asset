@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pickupable
+  - Injectable
+  - GloveBox
+  - Electrode
+  - PressureCuff
+  - Pulsiox
+  - Place_Sheet
+  - Betadine
+  - Oxygen_mask
+  - Tray
+  - Holdable
+  - Betadine_bottle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Instruments
+  - Cloth_Colliders
+  - Plunger
+  - Cloth
+  - Room
+  - Holding
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
